@@ -1,0 +1,3 @@
+source run_small.sh    # small test case for sanity
+source run_med.sh      # medium test case for more sanity
+source run_big.sh      # large test case for observing time difference
