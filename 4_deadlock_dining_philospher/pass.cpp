@@ -47,6 +47,8 @@ int main() {
         }
         std::cout<<"\nthread joined! times up!\n\n";
         std::cout<<"\n========================= no deadlock encountered! ========= \n\n";
+	string x; std::cout << "press enter to exit... " <<std::endl; std::cin.ignore();
+	exit(0);
 return 0;
 }
 
