@@ -1,3 +1,3 @@
 simply run the command "make"
 
-Note: I have implemented it with producer-counsumer feature, which need not be required. We can push all the task together at one in the queue at the beginning.
+Note: I have implemented it with producer-counsumer feature, which need not be required. We can push all the tasks together at once in the queue at the beginning.
